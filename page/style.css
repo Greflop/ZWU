@@ -13,6 +13,7 @@ body {
 }
 
 #nav {
+    text-align: center;
     min-height: 5em;
     margin: 3em;         
 }
@@ -27,6 +28,9 @@ ul#menu_horizontal {
 
 .section {
     text-align: center;
-    min-height: 10em;
     margin-top: 3em;
+}
+
+#stuff {
+    text-align: center;
 }
